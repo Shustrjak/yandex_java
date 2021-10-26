@@ -10,5 +10,6 @@ public class Main {
         int name = 10;
         double pi = 3.14;
         String mint = "mint";
+        System.out.println(name + pi + mint);
     }
 }
